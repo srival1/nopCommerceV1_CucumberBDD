@@ -1,0 +1,41 @@
+2023-02-25 22:29:04,403  INFO [main] nopCommerce:69 - Launched Browser
+ 2023-02-25 22:29:08,134  INFO [main] nopCommerce:86 - Opening URL
+ 2023-02-25 22:29:08,463  INFO [main] nopCommerce:96 - Credentials Entered
+ 2023-02-25 22:29:11,169  INFO [main] nopCommerce:103 - Clicked on Login Button
+ 2023-02-25 22:29:11,231  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:29:11,879  INFO [main] nopCommerce:129 - Clicked on Logout Button
+ 2023-02-25 22:29:11,895  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:29:12,186  INFO [main] nopCommerce:137 - Clicked on Logout Button
+ 2023-02-25 22:29:36,187  INFO [main] nopCommerce:69 - Launched Browser
+ 2023-02-25 22:29:39,071  INFO [main] nopCommerce:86 - Opening URL
+ 2023-02-25 22:29:39,526  INFO [main] nopCommerce:96 - Credentials Entered
+ 2023-02-25 22:29:41,553  INFO [main] nopCommerce:103 - Clicked on Login Button
+ 2023-02-25 22:29:41,619  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:29:42,288  INFO [main] nopCommerce:129 - Clicked on Logout Button
+ 2023-02-25 22:29:42,307  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:29:42,604  INFO [main] nopCommerce:137 - Clicked on Logout Button
+ 2023-02-25 22:31:16,889  INFO [main] nopCommerce:69 - Launched Browser
+ 2023-02-25 22:31:20,631  INFO [main] nopCommerce:86 - Opening URL
+ 2023-02-25 22:31:20,931  INFO [main] nopCommerce:96 - Credentials Entered
+ 2023-02-25 22:31:22,582  INFO [main] nopCommerce:103 - Clicked on Login Button
+ 2023-02-25 22:31:22,652  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:31:23,449  INFO [main] nopCommerce:129 - Clicked on Logout Button
+ 2023-02-25 22:31:23,467  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:31:23,770  INFO [main] nopCommerce:137 - Clicked on Logout Button
+ 2023-02-25 22:32:13,362  INFO [main] nopCommerce:69 - Launched Browser
+ 2023-02-25 22:32:15,938  INFO [main] nopCommerce:86 - Opening URL
+ 2023-02-25 22:32:16,207  INFO [main] nopCommerce:96 - Credentials Entered
+ 2023-02-25 22:32:18,147  INFO [main] nopCommerce:103 - Clicked on Login Button
+ 2023-02-25 22:32:18,221  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:32:18,826  INFO [main] nopCommerce:129 - Clicked on Logout Button
+ 2023-02-25 22:32:18,846  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:32:19,183  INFO [main] nopCommerce:137 - Clicked on Logout Button
+ 2023-02-25 22:34:34,332  INFO [main] nopCommerce:69 - Launched Browser
+ 2023-02-25 22:34:37,375  INFO [main] nopCommerce:86 - Opening URL
+ 2023-02-25 22:34:37,633  INFO [main] nopCommerce:96 - Credentials Entered
+ 2023-02-25 22:34:39,908  INFO [main] nopCommerce:103 - Clicked on Login Button
+ 2023-02-25 22:34:39,989  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:34:40,636  INFO [main] nopCommerce:129 - Clicked on Logout Button
+ 2023-02-25 22:34:40,652  INFO [main] nopCommerce:120 - Login Successful
+ 2023-02-25 22:34:40,919  INFO [main] nopCommerce:137 - Clicked on Logout Button
+ 
