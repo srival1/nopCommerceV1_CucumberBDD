@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = {".//Features/Login.feature", ".//Features/Customers.feature"}, //to Execute all the Feature files use ".//Features/"
-									tags = ("@Regression"),							   
+								   //tags = ("@Regression"),							   
 								   glue = {"stepDefinitions"},
 								   dryRun = false,
 								   //monochrome = true,
